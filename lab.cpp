@@ -16,7 +16,7 @@ int main() {
         for (int j = 0; j < numbersCount; ++j) {
             int number = std::rand() % 10 + 1; 
             file << number;
-            if (j < numbersCount - 1) file << " "; /
+            if (j < numbersCount - 1) file << " "; 
         }
     }
     return 0;
