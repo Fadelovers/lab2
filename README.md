@@ -64,9 +64,14 @@ mkdir lab2 && cd lab2 && git init
 Линк с репозиторием Git
 
 git clone https://github.com/Fadelovers/Lab2.git
-создание с файла, Readme.md для отчёта, .gitignore для ограничения публикаций
+создание с++ файла, Readme.md для отчёта, .gitignore для ограничения публикаций
 <h1 align="center">
-<img width="956" height="597" alt="Image" src="https://github.com/user-attachments/assets/ce4f190f-857c-43fb-9203-839bf1c69345" />
+<img width="957" height="597" alt="Image" src="https://github.com/user-attachments/assets/ba4baa4d-0891-4dae-b662-a2ff3cccd357" />
 </h1>
+
+компиляция
+
+.gitignore
+
 
 Настройка файла Gitignore
