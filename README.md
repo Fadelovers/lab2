@@ -73,5 +73,8 @@ git clone https://github.com/Fadelovers/Lab2.git
 
 .gitignore
 
+<h1 align="center">
+<img width="956" height="595" alt="Image" src="https://github.com/user-attachments/assets/09dcfdd3-38e5-48b5-903b-9602a85afc0b" />
+</h1>
 
 Настройка файла Gitignore
