@@ -58,7 +58,15 @@
 <h1 align="center">
 <img width="958" height="598" alt="Image" src="https://github.com/user-attachments/assets/664fc74a-6b6c-4383-af3f-f9f04d207c26" />
 </h1>
+
+mkdir lab2 && cd lab2 && git init
+
 Линк с репозиторием Git
 
+git clone https://github.com/Fadelovers/Lab2.git
+создание с файла, Readme.md для отчёта, .gitignore для ограничения публикаций
+<h1 align="center">
+<img width="956" height="597" alt="Image" src="https://github.com/user-attachments/assets/ce4f190f-857c-43fb-9203-839bf1c69345" />
+</h1>
 
 Настройка файла Gitignore
