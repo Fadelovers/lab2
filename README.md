@@ -4,5 +4,5 @@
 реализация создание txt файлов
 
 <div align="center">
-  <img src="https://drive.google.com/file/d/1CQEQiH5gL5B3AguU3ww19VxZb8gs4Aan/view?usp=drive_link" height="500" alt="Anime GIF"/>
+  <img src="https://github.com/Fadelovers/lab2/issues/1#issuecomment-3289470990" height="500" alt="Anime GIF"/>
 </div>
