@@ -55,9 +55,9 @@
 
 
 Создание локального репозиторя 
-
-
-
+<h1 align="center">
+<img width="958" height="598" alt="Image" src="https://github.com/user-attachments/assets/664fc74a-6b6c-4383-af3f-f9f04d207c26" />
+</h1>
 Линк с репозиторием Git
 
 
