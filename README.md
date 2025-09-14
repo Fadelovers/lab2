@@ -77,4 +77,19 @@ git clone https://github.com/Fadelovers/Lab2.git
 <img width="956" height="595" alt="Image" src="https://github.com/user-attachments/assets/09dcfdd3-38e5-48b5-903b-9602a85afc0b" />
 </h1>
 
-Настройка файла Gitignore
+Branch finish
+
+<h1 align="center">
+<img width="955" height="593" alt="Image" src="https://github.com/user-attachments/assets/1bdcc133-601f-4a6c-8565-40e8b903ca7f" />
+</h1>
+
+<h1 align="center">
+<img width="944" height="584" alt="Image" src="https://github.com/user-attachments/assets/f4cc7baf-e7cb-40f4-97b4-5c3cb52841dd" />
+</h1>
+
+<h1 align="center">
+<img width="949" height="585" alt="Image" src="https://github.com/user-attachments/assets/2fc0c5d7-4118-404f-b556-aaecaa2c8c54" />
+</h1>
+
+
+
