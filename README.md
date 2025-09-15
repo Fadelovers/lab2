@@ -82,7 +82,7 @@ Branch finish
 <h1 align="center">
 <img width="955" height="593" alt="Image" src="https://github.com/user-attachments/assets/1bdcc133-601f-4a6c-8565-40e8b903ca7f" />
 </h1>
-
+git clone https://github.com/Fadelovers/Lab2.git
 <h1 align="center">
 <img width="944" height="584" alt="Image" src="https://github.com/user-attachments/assets/f4cc7baf-e7cb-40f4-97b4-5c3cb52841dd" />
 </h1>
